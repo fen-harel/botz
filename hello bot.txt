@@ -1,0 +1,8 @@
+ID: 
+	931850453753417739
+
+Token:
+	OTMxODUwNDUzNzUzNDE3NzM5.YeKbXQ.eTjJ4EmCkmwq7w9ds9mrnZpkai4
+
+Invitation Link: 
+	https://discord.com/api/oauth2/authorize?client_id=931850453753417739&scope=bot&permissions=1
